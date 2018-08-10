@@ -1,0 +1,24 @@
+.groupTable{
+    float: left;
+    width: 20%;
+    margin-left: 4%;
+    margin-top: 3%;
+    text-align: center;
+    border: 5px solid rgb(221,221,221);
+    border-radius: 10px;
+    background-color: white;
+}
+table{
+    margin-bottom: 0px !important;
+}
+.leftTd{
+    wdith:20%;
+}
+.rightTd{
+    width:80%;
+}
+.backgroundDiv{
+    background-color: lightblue;
+}
+
+
